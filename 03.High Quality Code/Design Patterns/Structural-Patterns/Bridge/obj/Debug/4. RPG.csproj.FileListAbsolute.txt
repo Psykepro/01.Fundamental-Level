@@ -1,0 +1,6 @@
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Bridge\obj\Debug\Bridge.exe
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Bridge\obj\Debug\Bridge.pdb
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Bridge\bin\Debug\Bridge.exe
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Bridge\bin\Debug\Bridge.pdb
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Bridge\obj\Debug\4. RPG.csprojResolveAssemblyReference.cache

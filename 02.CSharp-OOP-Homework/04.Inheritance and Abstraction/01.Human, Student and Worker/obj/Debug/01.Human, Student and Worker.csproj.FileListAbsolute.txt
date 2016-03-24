@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\01.Human, Student and Worker\bin\Debug\01.Human, Student and Worker.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\01.Human, Student and Worker\bin\Debug\01.Human, Student and Worker.exe
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\01.Human, Student and Worker\bin\Debug\01.Human, Student and Worker.pdb
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\01.Human, Student and Worker\obj\Debug\01.Human, Student and Worker.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\01.Human, Student and Worker\obj\Debug\01.Human, Student and Worker.exe
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\01.Human, Student and Worker\obj\Debug\01.Human, Student and Worker.pdb

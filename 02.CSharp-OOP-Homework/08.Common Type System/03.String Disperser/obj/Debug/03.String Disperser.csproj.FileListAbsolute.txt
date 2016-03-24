@@ -1,0 +1,5 @@
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\03.String Disperser\bin\Debug\03.String Disperser.exe.config
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\03.String Disperser\bin\Debug\03.String Disperser.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\03.String Disperser\bin\Debug\03.String Disperser.pdb
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\03.String Disperser\obj\Debug\03.String Disperser.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\03.String Disperser\obj\Debug\03.String Disperser.pdb

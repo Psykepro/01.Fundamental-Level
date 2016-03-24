@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\06.Homework - Other Types in OOP\03.Generic List\bin\Debug\03.Generic List.exe.config
+C:\Users\niki\Documents\Visual Studio 2013\Projects\06.Homework - Other Types in OOP\03.Generic List\bin\Debug\03.Generic List.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\06.Homework - Other Types in OOP\03.Generic List\bin\Debug\03.Generic List.pdb
+C:\Users\niki\Documents\Visual Studio 2013\Projects\06.Homework - Other Types in OOP\03.Generic List\obj\Debug\03.Generic List.csprojResolveAssemblyReference.cache
+C:\Users\niki\Documents\Visual Studio 2013\Projects\06.Homework - Other Types in OOP\03.Generic List\obj\Debug\03.Generic List.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\06.Homework - Other Types in OOP\03.Generic List\obj\Debug\03.Generic List.pdb

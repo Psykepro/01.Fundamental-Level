@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.exe
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\02.Laptop Shop\bin\Debug\02.Laptop Shop.pdb
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.exe
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\02.Laptop Shop\obj\Debug\02.Laptop Shop.pdb

@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\03.Company Hierarchy\bin\Debug\03.Company Hierarchy.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\03.Company Hierarchy\bin\Debug\03.Company Hierarchy.exe
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\03.Company Hierarchy\bin\Debug\03.Company Hierarchy.pdb
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\03.Company Hierarchy\obj\Debug\03.Company Hierarchy.exe
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\03.Company Hierarchy\obj\Debug\03.Company Hierarchy.pdb

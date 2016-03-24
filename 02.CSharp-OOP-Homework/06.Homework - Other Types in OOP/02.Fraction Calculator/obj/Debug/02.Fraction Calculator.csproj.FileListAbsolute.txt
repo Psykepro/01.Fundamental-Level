@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\06.Homework - Other Types in OOP\02.Fraction Calculator\bin\Debug\02.Fraction Calculator.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\06.Homework - Other Types in OOP\02.Fraction Calculator\bin\Debug\02.Fraction Calculator.exe
+c:\users\niki\documents\visual studio 2013\Projects\06.Homework - Other Types in OOP\02.Fraction Calculator\bin\Debug\02.Fraction Calculator.pdb
+c:\users\niki\documents\visual studio 2013\Projects\06.Homework - Other Types in OOP\02.Fraction Calculator\obj\Debug\02.Fraction Calculator.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\06.Homework - Other Types in OOP\02.Fraction Calculator\obj\Debug\02.Fraction Calculator.exe
+c:\users\niki\documents\visual studio 2013\Projects\06.Homework - Other Types in OOP\02.Fraction Calculator\obj\Debug\02.Fraction Calculator.pdb

@@ -1,0 +1,8 @@
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\bin\Debug\02.Distance Calculator.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\bin\Debug\02.Distance Calculator.exe
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\bin\Debug\02.Distance Calculator.pdb
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\bin\Debug\01.Point3D.exe
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\bin\Debug\01.Point3D.pdb
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\obj\Debug\02.Distance Calculator.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\obj\Debug\02.Distance Calculator.exe
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\02.Distance Calculator\obj\Debug\02.Distance Calculator.pdb

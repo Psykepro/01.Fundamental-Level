@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\03.PC Catalog\bin\Debug\03.PC Catalog.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\03.PC Catalog\bin\Debug\03.PC Catalog.exe
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\03.PC Catalog\bin\Debug\03.PC Catalog.pdb
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\03.PC Catalog\obj\Debug\03.PC Catalog.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\03.PC Catalog\obj\Debug\03.PC Catalog.exe
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\03.PC Catalog\obj\Debug\03.PC Catalog.pdb

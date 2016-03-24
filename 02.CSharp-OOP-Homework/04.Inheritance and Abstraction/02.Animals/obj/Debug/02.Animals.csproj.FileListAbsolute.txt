@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\02.Animals\bin\Debug\02.Animals.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\02.Animals\bin\Debug\02.Animals.exe
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\02.Animals\bin\Debug\02.Animals.pdb
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\02.Animals\obj\Debug\02.Animals.exe
+c:\users\niki\documents\visual studio 2013\Projects\04.Inheritance and Abstraction\02.Animals\obj\Debug\02.Animals.pdb

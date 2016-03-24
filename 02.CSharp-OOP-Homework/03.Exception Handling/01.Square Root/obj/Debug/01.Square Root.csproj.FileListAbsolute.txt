@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\03.Exception Handling\01.Square Root\bin\Debug\01.Square Root.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\03.Exception Handling\01.Square Root\bin\Debug\01.Square Root.exe
+c:\users\niki\documents\visual studio 2013\Projects\03.Exception Handling\01.Square Root\bin\Debug\01.Square Root.pdb
+c:\users\niki\documents\visual studio 2013\Projects\03.Exception Handling\01.Square Root\obj\Debug\01.Square Root.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\03.Exception Handling\01.Square Root\obj\Debug\01.Square Root.exe
+c:\users\niki\documents\visual studio 2013\Projects\03.Exception Handling\01.Square Root\obj\Debug\01.Square Root.pdb

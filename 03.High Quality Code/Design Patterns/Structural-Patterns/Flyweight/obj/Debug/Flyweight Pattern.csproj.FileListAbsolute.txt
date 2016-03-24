@@ -1,0 +1,13 @@
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\bin\Debug\FlyweightGame.exe.config
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\FlyweightGame.exe
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\FlyweightGame.pdb
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\bin\Debug\FlyweightGame.exe
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\bin\Debug\FlyweightGame.pdb
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\Flyweight Pattern.csprojResolveAssemblyReference.cache
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\MainWindow.baml
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\MainWindow.g.cs
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\App.g.cs
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\FlyweightGame_MarkupCompile.cache
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\FlyweightGame.g.resources
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\FlyweightGame.Properties.Resources.resources
+C:\Users\niki\Downloads\26. SOLID-and-Design-Patterns-Lab\Skeleton\Flyweight\obj\Debug\Flyweight Pattern.csproj.GenerateResource.Cache

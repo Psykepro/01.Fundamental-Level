@@ -1,0 +1,9 @@
+c:\users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\bin\Debug\03.Paths.exe.config
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\bin\Debug\03.Paths.exe
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\bin\Debug\03.Paths.pdb
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\bin\Debug\01.Point3D.exe
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\bin\Debug\Newtonsoft.Json.dll
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\bin\Debug\01.Point3D.pdb
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\obj\Debug\03.Paths.csprojResolveAssemblyReference.cache
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\obj\Debug\03.Paths.exe
+C:\Users\niki\documents\visual studio 2013\Projects\02.Static Members and Namespaces\03.Paths\obj\Debug\03.Paths.pdb

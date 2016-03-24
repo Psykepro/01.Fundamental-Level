@@ -1,0 +1,2 @@
+D:\Desktop shits\software uni\KPK\Creational Patterns\Chain of Responsibillity\bin\Debug\Chain of Responsibillity.exe.config
+D:\Projects\SoftUni\Design Patterns\Behavioral-Patterns\Chain of Responsibillity\bin\Debug\Chain of Responsibillity.exe.config

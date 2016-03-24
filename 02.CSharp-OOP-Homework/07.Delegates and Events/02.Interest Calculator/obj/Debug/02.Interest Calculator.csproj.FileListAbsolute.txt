@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\07.Delegates and Events\02.Interest Calculator\bin\Debug\02.Interest Calculator.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\07.Delegates and Events\02.Interest Calculator\bin\Debug\02.Interest Calculator.exe
+c:\users\niki\documents\visual studio 2013\Projects\07.Delegates and Events\02.Interest Calculator\bin\Debug\02.Interest Calculator.pdb
+c:\users\niki\documents\visual studio 2013\Projects\07.Delegates and Events\02.Interest Calculator\obj\Debug\02.Interest Calculator.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\07.Delegates and Events\02.Interest Calculator\obj\Debug\02.Interest Calculator.exe
+c:\users\niki\documents\visual studio 2013\Projects\07.Delegates and Events\02.Interest Calculator\obj\Debug\02.Interest Calculator.pdb

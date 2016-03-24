@@ -1,0 +1,17 @@
+1.Value types are these types which contain value in them and they are stored in the stack memory.Reference types contain a pointer for the
+object which is stored in the stack.And this pointer is connected with the values of the object which are stored in the heap.
+
+2.When u assign a value type to a variable the variable will get the value.When u assign a reference type
+to a variable only the reference (address) is copied and the object stays the same.
+
+3.When value type is passed as argument to a method the method is getting copy of that value.When reference type is passed as argument
+to a method the method is getting the original values - the refence of the values.
+
+4.Value types are allocated in the stack.Reference types are allocated in the heap.
+
+5.Data mutation is when u increase a variable.Value types can't be mutated.Reference types can be mutated.
+
+6.When u are mutating a variable u are increasing it.When setting a variable u are making new variable of that type.
+
+7.Out and ref are used to get the refference of the value type or to get the pointer of the pointer of reference type.The difference between them
+is that when u use out in method u are obliged to change that variable.

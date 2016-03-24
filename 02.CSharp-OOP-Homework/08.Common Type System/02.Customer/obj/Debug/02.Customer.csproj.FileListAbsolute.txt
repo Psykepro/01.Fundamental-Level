@@ -1,0 +1,12 @@
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\02.Customer\bin\Debug\02.Customer.exe.config
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\02.Customer\bin\Debug\02.Customer.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\02.Customer\bin\Debug\02.Customer.pdb
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\02.Customer\obj\Debug\02.Customer.csprojResolveAssemblyReference.cache
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\02.Customer\obj\Debug\02.Customer.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\08.Common Type System\02.Customer\obj\Debug\02.Customer.pdb
+D:\Projects\SoftUni\01.Fundamental Level\02.CSharp-OOP-Homework\08.Common Type System\02.Customer\bin\Debug\02.Customer.exe.config
+D:\Projects\SoftUni\01.Fundamental Level\02.CSharp-OOP-Homework\08.Common Type System\02.Customer\obj\Debug\02.Customer.exe
+D:\Projects\SoftUni\01.Fundamental Level\02.CSharp-OOP-Homework\08.Common Type System\02.Customer\obj\Debug\02.Customer.pdb
+D:\Projects\SoftUni\01.Fundamental Level\02.CSharp-OOP-Homework\08.Common Type System\02.Customer\bin\Debug\02.Customer.exe
+D:\Projects\SoftUni\01.Fundamental Level\02.CSharp-OOP-Homework\08.Common Type System\02.Customer\bin\Debug\02.Customer.pdb
+D:\Projects\SoftUni\01.Fundamental Level\02.CSharp-OOP-Homework\08.Common Type System\02.Customer\obj\Debug\02.Customer.csprojResolveAssemblyReference.cache

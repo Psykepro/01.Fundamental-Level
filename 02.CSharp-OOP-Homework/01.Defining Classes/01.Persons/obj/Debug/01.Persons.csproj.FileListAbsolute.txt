@@ -1,0 +1,9 @@
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\01.Defining Classes\bin\Debug\01.Defining Classes.exe.config
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\01.Defining Classes\bin\Debug\01.Defining Classes.exe
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\01.Defining Classes\bin\Debug\01.Defining Classes.pdb
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\01.Defining Classes\obj\Debug\01.Persons.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\01.Defining Classes\obj\Debug\01.Defining Classes.exe
+c:\users\niki\documents\visual studio 2013\Projects\01.Defining Classes\01.Defining Classes\obj\Debug\01.Defining Classes.pdb
+C:\Users\niki\Documents\Visual Studio 2013\Projects\01.Defining Classes\01.Persons\bin\Debug\01.Defining Classes.exe.config
+C:\Users\niki\Documents\Visual Studio 2013\Projects\01.Defining Classes\01.Persons\obj\Debug\01.Defining Classes.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\01.Defining Classes\01.Persons\obj\Debug\01.Defining Classes.pdb

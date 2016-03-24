@@ -1,0 +1,5 @@
+C:\Users\niki\documents\visual studio 2013\Projects\05.Encapsulation and Polymorphism\02.Bank of Kurtovo Konare\bin\Debug\02.Bank of Kurtovo Konare.exe.config
+C:\Users\niki\documents\visual studio 2013\Projects\05.Encapsulation and Polymorphism\02.Bank of Kurtovo Konare\bin\Debug\02.Bank of Kurtovo Konare.exe
+C:\Users\niki\documents\visual studio 2013\Projects\05.Encapsulation and Polymorphism\02.Bank of Kurtovo Konare\bin\Debug\02.Bank of Kurtovo Konare.pdb
+C:\Users\niki\documents\visual studio 2013\Projects\05.Encapsulation and Polymorphism\02.Bank of Kurtovo Konare\obj\Debug\02.Bank of Kurtovo Konare.exe
+C:\Users\niki\documents\visual studio 2013\Projects\05.Encapsulation and Polymorphism\02.Bank of Kurtovo Konare\obj\Debug\02.Bank of Kurtovo Konare.pdb

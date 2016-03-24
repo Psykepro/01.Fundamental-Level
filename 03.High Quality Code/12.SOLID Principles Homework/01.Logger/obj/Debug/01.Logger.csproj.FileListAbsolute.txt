@@ -1,0 +1,6 @@
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\SOLID Principles Homework\01.Logger\bin\Debug\01.Logger.exe.config
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\SOLID Principles Homework\01.Logger\bin\Debug\01.Logger.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\SOLID Principles Homework\01.Logger\bin\Debug\01.Logger.pdb
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\SOLID Principles Homework\01.Logger\obj\Debug\01.Logger.csprojResolveAssemblyReference.cache
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\SOLID Principles Homework\01.Logger\obj\Debug\01.Logger.exe
+C:\Users\niki\Documents\Visual Studio 2013\Projects\CSharp-OOP-Homework\SOLID Principles Homework\01.Logger\obj\Debug\01.Logger.pdb
